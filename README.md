@@ -96,7 +96,6 @@ Project Link: [https://github.com/nagi1/oilly-telegram-bot](https://github.com/n
 [license-url]: https://github.com/nagi1/oilly-telegram-bot/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin
-&colorB=555
 [linkedin-url]: https://linkedin.com/in/ahmednagi
 [twitter-url]: https://twitter.com/OillyBot
 [product-screenshot]: media/demo.gif
