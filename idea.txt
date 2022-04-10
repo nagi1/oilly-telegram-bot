@@ -1,0 +1,35 @@
+Chaning Oil Reminder Bot (OIlly)
+
+Headline: ازيك, انا اويلي هساعدك تحافظ على مكنة عربيتك. هكفرك تغير الزيت وفلتر الزيت عشان ماتشلش همهم وتركز في حياتك اكتر.
+
+User interaction case:
+
+1. User enter to the bot chat
+2. Bot send him the headline and prompt them to confirm subscription.
+3. Bot asks for their current milage.
+4. Bot asks to rughly eistmate the last time they changed the oil.
+5. Bot asks to rughly eistmate the milage usage before the last time they changed the oil.
+6. Bot asks to rughly eistmate the what is the type of the oil 5k, 10k, 15k.
+7. Bot asks how frequent the user is changing thier oil every 3 months, 6 months...
+8. Bot asks wither the user is changed the oil filter or not.
+8. Bot tells the user "شكرا بناءا على المعلومات اللي ادتهالي هبعتلك رسالة ان موعد تغيير الزيت قرب"
+
+When System Resolve to the change the oil
+
+1. Bot Send to user "حان وقت تغيير الزيت لما تغيير الزيت اضغط هنا"
+2. User enter the oil type 5, 10, 15 and current milage.
+3. If user did not respond send him a message to remind him again.
+
+
+Date entery example:
+
+- current milage: 25,258
+- last time changed oil: 2 months ago
+- milage usage before chaning the oil: 21,201
+- What is the type of oil you last changed: 5k
+- How frequent do you changes the oil: 3 monthes
+- have you changed the oil filter: No
+
+How to calculate the oil change (research)
+
+
